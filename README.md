@@ -2,8 +2,8 @@ Mục Tiêu
 Cài đặt và huấn luyện mô hình Skip-gram để học các embedding vector từ một tập dữ liệu văn bản tiếng Việt. Mô hình sẽ được xây dựng từ đầu bằng Python mà không sử dụng các thư viện có sẵn.
 Yêu cầu kỹ thuật
 -	Ngôn ngữ lập trình: Python
--	Không sử dụng các thư viện sau: Gensim, SpaCy, FastText, TensorFlow/Keras, PyTorch, scikit-learn, và các thư viện tương tự có sẵn mô hình Skip-gram hoặc xử lý embedding.
--	Các thư viện được phép: NumPy, Pandas, NLTK (chỉ để tiền xử lý văn bản), matplotlib (để vẽ đồ thị).
+-	Các thư viện sử dụng: NumPy, Pandas, NLTK (chỉ để tiền xử lý văn bản), matplotlib (để vẽ đồ thị).
+
 Các nội dung thực hiện
  1. Tiền xử lý dữ liệu
 - Thu thập dữ liệu: Sinh viên có thể tự chọn một tập dữ liệu văn bản tiếng Việt hoặc sử dụng một tập dữ liệu mẫu được cung cấp trong đề bài.
